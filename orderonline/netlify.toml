@@ -1,0 +1,4 @@
+[[reddirects]]
+from = "/*"
+to = "/index.php"
+status = 200
